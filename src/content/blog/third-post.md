@@ -1,7 +1,7 @@
 ---
 title: "Third post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 22 2022"
-heroImage: "/blog-placeholder-2.jpg"
+description: "This is a screenshot of my bitsgap account"
+pubDate: "April 10 2025"
+heroImage: "/blog-placeholder-13.jpg"
 ---
 
