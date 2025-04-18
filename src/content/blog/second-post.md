@@ -2,7 +2,7 @@
 title: "Second post"
 description: "0"
 pubDate: "April 1 2025"
-heroImage: "/FB45.png"
+heroImage: "/blog-placeholder-5.jpg"
 ---
 
 <h3>Help me with my website cost!</h3>
